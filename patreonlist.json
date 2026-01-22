@@ -1,5 +1,21 @@
 {
   "version": 1,
   "updated": "2026-01-21",
-  "supporters": []
+  "supporters": [
+    {
+      "name": "StarFox",
+      "tier": "Gold",
+      "message": "Thank you for supporting the project!"
+    },
+    {
+      "name": "LunaVR",
+      "tier": "Silver",
+      "message": "Happy to help keep this world alive"
+    },
+    {
+      "name": "Echo",
+      "tier": "Bronze",
+      "message": "Love the world!"
+    }
+  ]
 }
