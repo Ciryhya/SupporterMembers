@@ -1,21 +1,18 @@
 {
   "version": 1,
   "updated": "2026-01-21",
-  "supporters": [
-    {
-      "name": "StarFox",
-      "tier": "Gold",
-      "message": "Thank you for supporting the project!"
+  "supporters": {
+    "550e8400-e29b-41d4-a716-446655440000": {
+      "username": "StarFox",
+      "tier": "gold"
     },
-    {
-      "name": "LunaVR",
-      "tier": "Silver",
-      "message": "Happy to help keep this world alive"
+    "a3c1b2d4-1234-4abc-9def-987654321000": {
+      "username": "LunaVR",
+      "tier": "silver"
     },
-    {
-      "name": "Echo",
-      "tier": "Bronze",
-      "message": "Love the world!"
+    "9f8e7d6c-5555-4bbb-8aaa-111222333444": {
+      "username": "Echo",
+      "tier": "bronze"
     }
-  ]
+  }
 }
