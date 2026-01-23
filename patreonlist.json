@@ -2,67 +2,26 @@
   "version": 1,
   "updated": "2026-01-21",
   "supporters": {
-    "550e8400-e29b-41d4-a716-446655440000": {
-      "username": "StarFox",
-      "tier": "gold"
+    "gold": {
+      "550e8400-e29b-41d4-a716-446655440000": "StarFox",
+      "1a2b3c4d-0001-4aaa-9bbb-aaaaaaaa0001": "NovaPrime",
+      "2b3c4d5e-0002-4aaa-9bbb-aaaaaaaa0002": "SolarWind",
+      "3c4d5e6f-0003-4aaa-9bbb-aaaaaaaa0003": "CrimsonAce",
+      "4d5e6f70-0004-4aaa-9bbb-aaaaaaaa0004": "OrionX"
     },
-    "1a2b3c4d-0001-4aaa-9bbb-aaaaaaaa0001": {
-      "username": "NovaPrime",
-      "tier": "gold"
+    "silver": {
+      "a3c1b2d4-1234-4abc-9def-987654321000": "LunaVR",
+      "5e6f7081-0005-4bbb-8ccc-bbbbbbbb0005": "Moonbyte",
+      "6f708192-0006-4bbb-8ccc-bbbbbbbb0006": "PixelDrift",
+      "708192a3-0007-4bbb-8ccc-bbbbbbbb0007": "NeonWave",
+      "8192a3b4-0008-4bbb-8ccc-bbbbbbbb0008": "Frostline"
     },
-    "2b3c4d5e-0002-4aaa-9bbb-aaaaaaaa0002": {
-      "username": "SolarWind",
-      "tier": "gold"
-    },
-    "3c4d5e6f-0003-4aaa-9bbb-aaaaaaaa0003": {
-      "username": "CrimsonAce",
-      "tier": "gold"
-    },
-    "4d5e6f70-0004-4aaa-9bbb-aaaaaaaa0004": {
-      "username": "OrionX",
-      "tier": "gold"
-    },
-
-    "a3c1b2d4-1234-4abc-9def-987654321000": {
-      "username": "LunaVR",
-      "tier": "silver"
-    },
-    "5e6f7081-0005-4bbb-8ccc-bbbbbbbb0005": {
-      "username": "Moonbyte",
-      "tier": "silver"
-    },
-    "6f708192-0006-4bbb-8ccc-bbbbbbbb0006": {
-      "username": "PixelDrift",
-      "tier": "silver"
-    },
-    "708192a3-0007-4bbb-8ccc-bbbbbbbb0007": {
-      "username": "NeonWave",
-      "tier": "silver"
-    },
-    "8192a3b4-0008-4bbb-8ccc-bbbbbbbb0008": {
-      "username": "Frostline",
-      "tier": "silver"
-    },
-
-    "9f8e7d6c-5555-4bbb-8aaa-111222333444": {
-      "username": "Echo",
-      "tier": "bronze"
-    },
-    "92a3b4c5-0009-4ccc-7ddd-cccccccc0009": {
-      "username": "RustyKey",
-      "tier": "bronze"
-    },
-    "a3b4c5d6-0010-4ccc-7ddd-cccccccc0010": {
-      "username": "CloudPebble",
-      "tier": "bronze"
-    },
-    "b4c5d6e7-0011-4ccc-7ddd-cccccccc0011": {
-      "username": "StaticFox",
-      "tier": "bronze"
-    },
-    "c5d6e7f8-0012-4ccc-7ddd-cccccccc0012": {
-      "username": "LowOrbit",
-      "tier": "bronze"
+    "bronze": {
+      "9f8e7d6c-5555-4bbb-8aaa-111222333444": "Echo",
+      "92a3b4c5-0009-4ccc-7ddd-cccccccc0009": "RustyKey",
+      "a3b4c5d6-0010-4ccc-7ddd-cccccccc0010": "CloudPebble",
+      "b4c5d6e7-0011-4ccc-7ddd-cccccccc0011": "StaticFox",
+      "c5d6e7f8-0012-4ccc-7ddd-cccccccc0012": "LowOrbit"
     }
   }
 }
