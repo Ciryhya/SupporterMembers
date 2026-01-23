@@ -3,16 +3,7 @@
   "updated": "2026-01-23",
   "supporters": {
     "gold": {},
-    "silver": {
-      "310413780485931008": {
-        "discord_id": "310413780485931008",
-        "discord_username": "ciryaher",
-        "vrchat_id": "",
-        "vrchat_name": "Ciryaher",
-        "tier": "silver",
-        "last_updated": "2026-01-23T22:42:45.684583"
-      }
-    },
+    "silver": {},
     "bronze": {}
   }
 }
