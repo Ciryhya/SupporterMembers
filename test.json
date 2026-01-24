@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "updated": "2026-01-24",
+  "supporters": {
+    "gold": {
+      "100000000000000001": {
+        "discord_id": "100000000000000001",
+        "discord_username": "auricprime",
+        "vrchat_id": "usr_abcdef123456",
+        "vrchat_name": "AuricPrime",
+        "tier": "gold",
+        "last_updated": "2026-01-24T10:15:00.000000"
+      },
+      "100000000000000002": {
+        "discord_id": "100000000000000002",
+        "discord_username": "goldenbyte",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "gold",
+        "last_updated": "2026-01-24T10:16:12.000000"
+      },
+      "100000000000000003": {
+        "discord_id": "100000000000000003",
+        "discord_username": "sunforged",
+        "vrchat_id": "usr_ffeeddccbbaa",
+        "vrchat_name": "SunForged",
+        "tier": "gold",
+        "last_updated": "2026-01-24T10:17:45.000000"
+      }
+    },
+    "silver": {
+      "310413780485931008": {
+        "discord_id": "310413780485931008",
+        "discord_username": "ciryaher",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "silver",
+        "last_updated": "2026-01-23T23:11:30.128031"
+      },
+      "200000000000000001": {
+        "discord_id": "200000000000000001",
+        "discord_username": "lunartrace",
+        "vrchat_id": "usr_112233445566",
+        "vrchat_name": "LunarTrace",
+        "tier": "silver",
+        "last_updated": "2026-01-24T10:18:30.000000"
+      },
+      "200000000000000002": {
+        "discord_id": "200000000000000002",
+        "discord_username": "softsignal",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "silver",
+        "last_updated": "2026-01-24T10:19:05.000000"
+      }
+    },
+    "bronze": {
+      "300000000000000001": {
+        "discord_id": "300000000000000001",
+        "discord_username": "emberstep",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "bronze",
+        "last_updated": "2026-01-24T10:20:10.000000"
+      },
+      "300000000000000002": {
+        "discord_id": "300000000000000002",
+        "discord_username": "nightparcel",
+        "vrchat_id": "usr_998877665544",
+        "vrchat_name": "NightParcel",
+        "tier": "bronze",
+        "last_updated": "2026-01-24T10:21:02.000000"
+      },
+      "300000000000000003": {
+        "discord_id": "300000000000000003",
+        "discord_username": "lowpolyfox",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "bronze",
+        "last_updated": "2026-01-24T10:21:45.000000"
+      }
+    }
+  }
+}
