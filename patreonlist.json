@@ -2,17 +2,17 @@
   "version": 1,
   "updated": "2026-01-29",
   "supporters": {
-    "gold": {
+    "gold": {},
+    "silver": {
       "310413780485931008": {
         "discord_id": "310413780485931008",
         "discord_username": "ciryaher",
         "vrchat_id": "",
         "vrchat_name": "",
-        "tier": "gold",
-        "last_updated": "2026-01-24T16:27:06.726588"
+        "tier": "silver",
+        "last_updated": "2026-01-29T20:55:46.790225"
       }
     },
-    "silver": {},
     "bronze": {}
   }
 }
