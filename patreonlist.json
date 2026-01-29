@@ -4,6 +4,15 @@
   "supporters": {
     "gold": {},
     "silver": {},
-    "bronze": {}
+    "bronze": {
+      "310413780485931008": {
+        "discord_id": "310413780485931008",
+        "discord_username": "ciryaher",
+        "vrchat_id": "",
+        "vrchat_name": "",
+        "tier": "bronze",
+        "last_updated": "2026-01-29T20:56:08.609313"
+      }
+    }
   }
 }
